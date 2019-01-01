@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BrokenLinePieChartView">
+        <attr name="circleRadius" format="dimension" />
+        <attr name="textSize" format="dimension" />
+        <attr name="exampleDrawable" format="color|reference" />
+    </declare-styleable>
+</resources>
